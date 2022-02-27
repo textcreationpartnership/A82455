@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for the improvement of the revenue of the customs and excize</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82455</idno>
+            <idno type="STC">Wing E1113</idno>
+            <idno type="STC">Thomason E1065_28</idno>
+            <idno type="STC">ESTC R13781</idno>
+            <idno type="EEBO-CITATION">99859547</idno>
+            <idno type="PROQUEST">99859547</idno>
+            <idno type="VID">169284</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82455)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169284)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 159:E1065[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for the improvement of the revenue of the customs and excize</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Hen: Hills and John Field, Printers to His Highness the Lord Protector,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1657]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>On A1r: last word in first line of text: 'Petition'; first word under initial: 'setled'; last word in last full line of text: 'And'.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Internal revenue law --  Great Britain --  Early works to 1800.</term>
+               <term>Octroi --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="act">
+            <pb n="1" facs="tcp:169284:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 17 -->
+            <head>
+               <figure/>AN ACT FOR THE IMPROVEMENT Of the Revenue of the Cuſtoms and Excize.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by the Humble Petition and Advice of the Parliament, it is thought fit and Declared, That the conſtant yearly Reve<g ref="char:EOLhyphen"/>nue of Thirteen hundred thou<g ref="char:EOLhyphen"/>ſand pounds, ſhall be raiſed and ſetled for the Maintenance of the Armies and Navies of this Commonwealth, and for De<g ref="char:EOLhyphen"/>fraying the Charges of the Government; And
+<pb n="2" facs="tcp:169284:2"/>
+               <!-- PDF PAGE 18 -->
+whereas it will be neceſſary that the Profits of the Excize and Cuſtoms, and other the Publique Revenue, be by all good ways and means Improved to the beſt Advantage of the Commonwealth, and as much as may be, reduced to a Certainty, to the end the ſaid Yearly Revenue of Thirteen hundred thou<g ref="char:EOLhyphen"/>ſand pounds may be anſwered &amp; raiſed with<g ref="char:EOLhyphen"/>out a Land-Tax, according to the Humble Pe<g ref="char:EOLhyphen"/>tition and Advice, without weakning the Se<g ref="char:EOLhyphen"/>curities wherewith the ſame are already char<g ref="char:EOLhyphen"/>ged; Be it therefore Enacted by His Highneſs the Lord Protector and this preſent Parlia<g ref="char:EOLhyphen"/>ment, and by Authority thereof, That the Lord <hi>Whitlock,</hi> Col. <hi>Sydenham,</hi> Col. <hi>Philip Jones,</hi> the Lord Commiſsioner <hi>Fyennes,</hi> the Lord Commiſsioner <hi>Liſle,</hi> Mr. Secretary <hi>Thurloe,</hi> Sir <hi>Richard Onſlow,</hi> Sir <hi>William Ro<g ref="char:EOLhyphen"/>berts,</hi> Mr. <hi>Drake,</hi> Mr. <hi>Godfrey,</hi> Col. <hi>John Clerk,</hi> Mr. <hi>Bond,</hi> Capt. <hi>Stone,</hi> Sir <hi>Chriſtopher Pack,</hi> Al<g ref="char:EOLhyphen"/>derman <hi>Foot,</hi> Mr. <hi>Lloyd,</hi> the Lord Chief Iu<g ref="char:EOLhyphen"/>ſtice <hi>Glyn,</hi> Sir <hi>Charls Wolſeley,</hi> Sir <hi>John Trevor,</hi> Mr. <hi>Upton,</hi> the Lord <hi>Broghil,</hi> Gen. <hi>Disbrow,</hi> Major General <hi>Goff,</hi> M. <hi>Bodwrda,</hi> Mr. <hi>Thomas Smith,</hi> Col. <hi>Twiſleton,</hi> Mr. <hi>Ruſhworth,</hi> Mr. <hi>Downing,</hi> Sir <hi>John Barkſtead,</hi> Col. <hi>John Jones,</hi> Major <hi>Beak,</hi> Capt. <hi>Blackwel,</hi> Mr. <hi>Highland,</hi> Col. <hi>Mildmay,</hi> Col. <hi>Matthews,</hi> Major General <hi>Hains,</hi> Major General <hi>Kelſey,</hi> and Mr. <hi>Maidſton,</hi> or any ſeven of them ſhall be, and hereby are Authoriſed and Impowered to be a Commit<g ref="char:EOLhyphen"/>tee of Parliament, to Treat, Contract and Conclude with any perſon or perſons for the Farming all or any part of the Duties of Cu<g ref="char:EOLhyphen"/>ſtoms and Subſidy of Tonnage and Poun<g ref="char:EOLhyphen"/>dage, and of Exciſe and New Impoſt, and all
+<pb n="3" facs="tcp:169284:2"/>
+               <!-- PDF PAGE 18 -->
+or any part of the Duties mentioned in two ſeveral Acts made this preſent Parliament, the one Entituled, <hi>An Act for Continuing and Eſtabliſhing the Subſidy of Tonnage and Poundage;</hi> And for reviving <hi>an Act for the better Packing of Butter, and for Redreſs of Abuſes therein;</hi> The other Entituled, <hi>An Additional Act for the better Improve<g ref="char:EOLhyphen"/>ment and Advancing the Receipts of the Excize and New Impoſt,</hi> and all or any part of the Duties mentioned in any other Act or Ordinance touching the ſaid Cuſtoms and Excize, which by vertue of the aforementioned Acts are Re<g ref="char:EOLhyphen"/>vived, Continued, Confirmed or put in force; And what Contract, Bargain or Agreement, Contracts, Bargains, or Agreements, ſhall be made by the ſaid Committee, or any ſeven of them, with any perſon or perſons for or touching the premiſes, or any part of them; which Contract, Bargain or Agreement, Contracts, Bargains or Agreements being aſſented unto by His Highneſs, with the Ad<g ref="char:EOLhyphen"/>vice of His Council, and Ratified and Confir<g ref="char:EOLhyphen"/>med by any Grant or Grants under the Great Seal of <hi>England,</hi> ſhall be, and hereby is and are declared to be and continue Good and Valid to all intents and purpoſes; and all and every perſon or perſons that ſhall be a Farmer or Contractor, Farmers or Contractors in pur<g ref="char:EOLhyphen"/>ſuance of this Act, ſhall be ſaved and kept harmleſs by Authority of Parliament.</p>
+            <p>Provided always, That the premiſes nor any part of them, be farmed for any Term ex<g ref="char:EOLhyphen"/>ceeding Seven years: And the ſaid Commit<g ref="char:EOLhyphen"/>tee are hereby required to give an Accompt of their Proceedings hereupon to the Parlia<g ref="char:EOLhyphen"/>ment at their next Sitting.</p>
+            <p>
+               <pb n="4" facs="tcp:169284:3"/>
+               <!-- PDF PAGE 19 -->Provided always, That no perſon appoint<g ref="char:EOLhyphen"/>ed by this Act to be of the Committee of Par<g ref="char:EOLhyphen"/>liament as aforeſaid, ſhall directly or indirect<g ref="char:EOLhyphen"/>ly be a Farmer, or Partner in the farming of any part of the Cuſtom or Exciſe aforeſaid.</p>
+            <p>Provided always, and it is hereby Enact<g ref="char:EOLhyphen"/>ed, That no perſon or perſons whatſoever, that ſhall farm the Cuſtoms or Excize, or any part of them, or ſhall be Commiſsioner or Commiſsioners of them or either of them, ſhall during the time of ſuch Farm or Com<g ref="char:EOLhyphen"/>miſsion, trade in any the Commodities which may fall under the ſaid Farm, or within the Compaſs of ſuch Commiſsion.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed by HEN: HILLS and JOHN FIELD, Printers to His Highneſs the Lord PROTECTOR. 1657.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
